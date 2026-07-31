@@ -1,2 +1,2 @@
-# App-pract-1
+# App-pract
 Concepts of OOP
